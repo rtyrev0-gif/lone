@@ -1,0 +1,45 @@
+/* Premium Loan Dashboard Styles */
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  background: #f4f6f9;
+}
+
+nav {
+  background: #0b2c5f;
+  color: white;
+  padding: 15px 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hero {
+  background: linear-gradient(135deg, #0b2c5f, #1e4fa3);
+  color: white;
+  text-align: center;
+  padding: 60px;
+}
+
+.container {
+  max-width: 1100px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+}
+
+.btn {
+  display: block;
+  text-align: center;
+  background: #0b2c5f;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  text-decoration: none;
+}
